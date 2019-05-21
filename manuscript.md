@@ -53,3 +53,23 @@ queer clay bas-relief and the disjointed jottings, ramblings, and cuttings
 which I found? Had my uncle, in his latter years, become credulous of the most
 superficial impostures? I resolved to search out the eccentric sculptor
 responsible for this apparent disturbance of an old man’s peace of mind.
+
+The bas-relief was a rough rectangle less than an inch thick and about five by
+six inches in area; obviously of modern origin. Its designs, however, were far
+from modern in atmosphere and suggestion; for although the vagaries of cubism
+and futurism are many and wild, they do not often reproduce that cryptic
+regularity which lurks in prehistoric writing. And writing of some kind the
+bulk of these designs seemed certainly to be; though my memory, despite much
+familiarity with the papers and collections of my uncle, failed in any way to
+identify this particular species, or even to hint at its remotest affiliations.
+
+Above these apparent hieroglyphics was a figure of evidently pictorial intent,
+though its impressionistic execution forbade a very clear idea of its nature.
+It seemed to be a sort of monster, or symbol representing a monster, of a form
+which only a diseased fancy could conceive. If I say that my somewhat
+extravagant imagination yielded simultaneous pictures of an octopus, a dragon,
+and a human caricature, I shall not be unfaithful to the spirit of the thing.
+A pulpy, tentacled head surmounted a grotesque and scaly body with rudimentary
+wings; but it was the general outline of the whole which made it most
+shockingly frightful. Behind the figure was a vague suggestion of a Cyclopean
+architectural background.
