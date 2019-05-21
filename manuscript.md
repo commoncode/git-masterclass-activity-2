@@ -21,3 +21,35 @@ this piecing out; certainly, if I live, I shall never knowingly supply a link
 in so hideous a chain. I think that the professor, too, intended to keep silent
 regarding the part he knew, and that he would have destroyed his notes had not
 sudden death seized him.
+
+My knowledge of the thing began in the winter of 1926–27 with the death of my
+grand-uncle George Gammell Angell, Professor Emeritus of Semitic Languages in
+Brown University, Providence, Rhode Island. Professor Angell was widely known
+as an authority on ancient inscriptions, and had frequently been resorted to
+by the heads of prominent museums; so that his passing at the age of ninety-
+two may be recalled by many. Locally, interest was intensified by the
+obscurity of the cause of death. The professor had been stricken whilst
+returning from the Newport boat; falling suddenly, as witnesses said, after
+having been jostled by a nautical-looking negro who had come from one of the
+queer dark courts on the precipitous hillside which formed a short cut from
+the waterfront to the deceased’s home in Williams Street. Physicians were
+unable to find any visible disorder, but concluded after perplexed debate that
+some obscure lesion of the heart, induced by the brisk ascent of so steep a
+hill by so elderly a man, was responsible for the end. At the time I saw no
+reason to dissent from this dictum, but latterly I am inclined to wonder—and
+more than wonder.
+
+As my grand-uncle’s heir and executor, for he died a childless widower, I was
+expected to go over his papers with some thoroughness; and for that purpose
+moved his entire set of files and boxes to my quarters in Boston. Much of the
+material which I correlated will be later published by the American
+Archaeological Society, but there was one box which I found exceedingly
+puzzling, and which I felt much averse from shewing to other eyes. It had been
+locked, and I did not find the key till it occurred to me to examine the
+personal ring which the professor carried always in his pocket. Then indeed I
+succeeded in opening it, but when I did so seemed only to be confronted by a
+greater and more closely locked barrier. For what could be the meaning of the
+queer clay bas-relief and the disjointed jottings, ramblings, and cuttings
+which I found? Had my uncle, in his latter years, become credulous of the most
+superficial impostures? I resolved to search out the eccentric sculptor
+responsible for this apparent disturbance of an old man’s peace of mind.
