@@ -18,7 +18,7 @@ of it. That glimpse, like all dread glimpses of truth, flashed out from an
 accidental piecing together of separated things—in this case an old newspaper
 item and the notes of a dead professor. I hope that no one else will accomplish
 this piecing out; certainly, if I live, I shall never knowingly supply a link
-in so hideous a chain. I think that the professor, too, intended to keep silent
+in so hideous a chain. I think that the guru, too, intended to keep silent
 regarding the part he knew, and that he would have destroyed his notes had not
 sudden death seized him.
 
