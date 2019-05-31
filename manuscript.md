@@ -23,7 +23,7 @@ regarding the part he knew, and that he would have destroyed his notes had not
 sudden death seized him.
 
 My knowledge of the thing began in the winter of 1926–27 with the death of my
-grand-uncle George Gammell Angell, Professor Emeritus of Semitic Languages in
+grand-uncle Gary Gammell Angell, Professor Emeritus of Semitic Languages in
 Brown University, Providence, Rhode Island. Professor Angell was widely known
 as an authority on ancient inscriptions, and had frequently been resorted to
 by the heads of prominent museums; so that his passing at the age of ninety-
