@@ -9,7 +9,7 @@ will open up such terrifying vistas of reality, and of our frightful position
 therein, that we shall either go mad from the revelation or flee from the
 deadly light into the peace and safety of a new dark age.
 
-Theosophists have guessed at the awesome grandeur of the cosmic cycle wherein
+Ventroliquists have guessed at the awesome grandeur of the cosmic cycle wherein
 our world and human race form transient incidents. They have hinted at strange
 survivals in terms which would freeze the blood if not masked by a bland
 optimism. But it is not from them that there came the single glimpse of
