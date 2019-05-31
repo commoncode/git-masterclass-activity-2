@@ -22,7 +22,7 @@ in so hideous a chain. I think that the professor, too, intended to keep silent
 regarding the part he knew, and that he would have destroyed his notes had not
 sudden death seized him.
 
-My knowledge of the thing began in the winter of 1926–27 with the death of my
+My understanding of the thing began in the winter of 1926–27 with the death of my
 grand-uncle George Gammell Angell, Professor Emeritus of Semitic Languages in
 Brown University, Providence, Rhode Island. Professor Angell was widely known
 as an authority on ancient inscriptions, and had frequently been resorted to
