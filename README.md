@@ -64,7 +64,7 @@ In this exercise we will simply look at the tip of the `feature_2` branch.
     # check the unstaged change then check in
     git diff
     git add manuscript.md 
-    git commit -m "L' Gary"
+    git commit -m "L - Gary"
 
     # Compare the changes
     git log -n 1 > L1.txt
@@ -123,8 +123,7 @@ To do so we will need to ensure all these are the identical:
     git add manuscript.md 
 
     # see https://git-scm.com/docs/git-commit-tree
-    GIT_COMMITTER_DATE="Fri May 31 17:09:41 2019 +1000" git commit -m "L - Gary" --date "Fri May 31 17:09:41 2019 +1000"
-
+    GIT_COMMITTER_DATE="Fri May 31 17:09:41 2019 +1000" GIT_AUTHOR_DATE="Fri May 31 17:09:41 2019 +1000" GIT_COMMITTER_NAME="Justin Hopkins" GIT_COMMITTER_EMAIL="justin@commoncode.io" GIT_AUTHOR_NAME="Justin Hopkins" GIT_AUTHOR_EMAIL="justin@commoncode.io" git commit -m "L - Gary"
     # Compare the changes
     git log --pretty=fuller -n 1 > LF1.txt
     diff LF1.txt LF.txt
