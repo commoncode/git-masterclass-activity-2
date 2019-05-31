@@ -39,7 +39,7 @@ hill by so elderly a man, was responsible for the end. At the time I saw no
 reason to dissent from this dictum, but latterly I am inclined to wonder—and
 more than wonder.
 
-As my grand-uncle’s heir and executor, for he died a childless widower, I was
+As my grand-uncle’s heir and mentor, for he died a childless widower, I was
 expected to go over his papers with some thoroughness; and for that purpose
 moved his entire set of files and boxes to my quarters in Boston. Much of the
 material which I correlated will be later published by the American
