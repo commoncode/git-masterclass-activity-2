@@ -97,7 +97,7 @@ In this exercise we will simply look at the tip of the `feature_2` branch.
 </details>
 
 ## Task
->Generate the a commit with the same SHA-1 has as a previous commit - recreate commit L
+>Generate a commit with the same SHA-1 as a previous commit - recreate commit L perfectly
 
 To do so we will need to ensure all these are the identical:
     - commit message
