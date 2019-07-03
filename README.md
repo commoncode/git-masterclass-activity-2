@@ -6,6 +6,8 @@ Here we look at the effect on commit ID (SHA-1 hashing) of various types of comm
 
 We look at what the dependencies of the hash operation are and see if we can re-create a certain commit SHA-1.
 
+There is chance to practice undoing commits.
+
 The only file (apart from this one) is [manuscript.md](https://github.com/commoncode/git-masterclass-activity-1/blob/master/manuscript.md) which is a plain text passage of English.
 
 There is a series of branches already created to set the scene for this activity.
@@ -71,7 +73,7 @@ In this exercise we will simply look at the tip of the `feature_2` branch.
 </details>
 
 ## Task
->Verify if a cherry-picked commit results in the same commit ID by reapplying commit L.
+>Verify if a cherry-picked commit results in the same commit ID by _undoing_ and reapplying commit L.
 
 <details><summary>Show me how</summary>
 
