@@ -43,7 +43,7 @@ A --- B --- G --- H                     master
 In this exercise we will simply look at the tip of the `feature_2` branch.
 
 ## Task
->Verify if the same file change on a branch results in the same commit ID.  Do this by re-applying commit L.
+>Verify if the same file change on a branch results in the same commit ID.  Do this by _undoing_ and then re-applying commit L.
 
 <details><summary>Show me how</summary>
 
