@@ -129,8 +129,3 @@ To do so we will need to ensure all these are the identical:
     diff LF1.txt LF.txt
 
 </details>
-
-## Discussion Points
-- Do rebased commits behave the same way as cherry-pick commits?
-- What is the value of having unique SHA-1 hashes, why was git designed this way?
-- Is there any practical use of overiding timestamps?
