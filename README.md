@@ -1,4 +1,4 @@
-# Git Master Class Activity 2 
+# Git Master Class Activity 2
 
 This is simple repository to practice some of the concepts taught in Common Code's Git Master Class training course.
 
@@ -12,7 +12,7 @@ The only file (apart from this one) is [manuscript.md](https://github.com/common
 
 There is a series of branches already created to set the scene for this activity.
 
-_Try to perform the tasks using commands in your computer terminal - if you get stuck then click 'Show me how'_ 
+_Try to perform the tasks using commands in your computer terminal - if you get stuck then click 'Show me how'_
 
 ## Setup
 
@@ -29,7 +29,7 @@ _Try to perform the tasks using commands in your computer terminal - if you get 
 
 To restart the exercise at any time just `rm -Rf git-masterclass-activity-2` and re-clone.
 
--------------------------
+---
 
 This repo has a couple of branches with a sequence of commits resulting in a tree like this:
 
@@ -45,7 +45,8 @@ A --- B --- G --- H                     master
 In this exercise we will simply look at the tip of the `feature_2` branch.
 
 ## Task
->Verify if the same file change on a branch results in the same commit ID.  Do this by _undoing_ and then re-applying commit L.
+
+> Verify if the same file change on a branch results in the same commit ID. Do this by _undoing_ and then re-applying commit L.
 
 <details><summary>Show me how</summary>
 
@@ -60,10 +61,10 @@ In this exercise we will simply look at the tip of the `feature_2` branch.
     # Undo the last commit
     git reset --hard HEAD~1
 
-    # Manually redo the commit - s/George/Gary in vim manuscript.md 
+    # Manually redo the commit - s/George/Gary in vim manuscript.md
     # check the unstaged change then check in
     git diff
-    git add manuscript.md 
+    git add manuscript.md
     git commit -m "L - Gary"
 
     # Compare the changes
@@ -73,7 +74,8 @@ In this exercise we will simply look at the tip of the `feature_2` branch.
 </details>
 
 ## Task
->Verify if a cherry-picked commit results in the same commit ID by _undoing_ and reapplying commit L.
+
+> Verify if a cherry-picked commit results in the same commit ID by _undoing_ and reapplying commit L.
 
 <details><summary>Show me how</summary>
 
@@ -97,17 +99,17 @@ In this exercise we will simply look at the tip of the `feature_2` branch.
 </details>
 
 ## Task
->Generate a commit with the same SHA-1 as a previous commit - recreate commit L perfectly
 
-To do so we will need to ensure all these are the identical:
-    - commit message
-    - committer
-    - commit date
-    - author
-    - authoring date
-    - parent tree
+> Generate a commit with the same SHA-1 as a previous commit - recreate commit L perfectly
+
+To do so we will need to ensure all these are the identical: - commit message - committer - commit date - author - authoring date - parent tree
 
 <details><summary>Show me how</summary>
+    # reclone the repo
+    cd ..
+    rm -rf git-masterclass-activity-2
+    git clone git@github.com:commoncode/git-masterclass-activity-2.git
+    cd git-masterclass-activity-2
 
     git checkout feature_2
 
@@ -117,10 +119,10 @@ To do so we will need to ensure all these are the identical:
     # Undo the last commit
     git reset --hard HEAD~1
 
-    # Manually redo the commit - s/George/Gary in vim manuscript.md 
+    # Manually redo the commit - s/George/Gary in vim manuscript.md
     # check the unstaged change then check in
     git diff
-    git add manuscript.md 
+    git add manuscript.md
 
     # see https://git-scm.com/docs/git-commit-tree
     GIT_COMMITTER_DATE="Fri May 31 17:09:41 2019 +1000" GIT_AUTHOR_DATE="Fri May 31 17:09:41 2019 +1000" GIT_COMMITTER_NAME="Justin Hopkins" GIT_COMMITTER_EMAIL="justin@commoncode.io" GIT_AUTHOR_NAME="Justin Hopkins" GIT_AUTHOR_EMAIL="justin@commoncode.io" git commit -m "L - Gary"
