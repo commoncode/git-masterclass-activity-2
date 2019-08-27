@@ -105,6 +105,7 @@ In this exercise we will simply look at the tip of the `feature_2` branch.
 To do so we will need to ensure all these are the identical: - commit message - committer - commit date - author - authoring date - parent tree
 
 <details><summary>Show me how</summary>
+    
     # reclone the repo
     cd ..
     rm -rf git-masterclass-activity-2
